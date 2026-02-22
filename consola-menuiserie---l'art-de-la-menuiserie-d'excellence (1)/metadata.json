@@ -1,7 +1,0 @@
-{
-  "name": "Consola Menuiserie - L'Art de la Menuiserie d'Excellence",
-  "description": "Site vitrine moderne pour Consola Menuiserie, spécialisée dans la menuiserie sur-mesure et la restauration du patrimoine depuis 1945.",
-  "requestFramePermissions": [
-    "geolocation"
-  ]
-}
